@@ -1,6 +1,7 @@
-# AIM : To study and excute the commands in unix.
+AIM :
+To study and excute the commands in unix.
 
-## COMMAND :
+COMMAND :
 1.	Date Command :
 This command is used to display the current data and time.
 Syntax :
